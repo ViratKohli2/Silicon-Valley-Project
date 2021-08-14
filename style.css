@@ -1,0 +1,32 @@
+h1{
+    text-align: center;
+    color: brown;
+    background-color:yellow;
+    font-family:Times ;
+    }
+h3{
+    text-align: center;
+    color:darkblue;
+}
+.grid{
+   display: flex;
+   justify-content: space-evenly;
+   background-color: mediumspringgreen;
+}
+.back{
+    background-color: turquoise;
+    font-size: x-large;
+    font-family: Georgia;
+   
+}
+.item{
+    text-align: center;
+    font-size: x-large;
+    
+}
+.footer{
+    text-align: center;
+    background-color:darkcyan ;
+    font-family: Arial;
+    font-size: medium;
+}
